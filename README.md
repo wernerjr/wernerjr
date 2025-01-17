@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou Werner Jr! 👋
 
-<!--
-**wernerjr/wernerjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios.
 
-Here are some ideas to get you started:
+## Habilidades
+- JavaScript
+- Python
+- React
+- Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque
+- [Projeto 1](link_do_projeto)
+- [Projeto 2](link_do_projeto)
+
+## Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wernerjr&show_icons=true)
+
+## Contato
+- [LinkedIn](seu_link_do_linkedin)
+- [Twitter](seu_link_do_twitter)
